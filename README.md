@@ -4,6 +4,17 @@ A FAANG-level AI system that detects, analyzes, and improves failed LLM outputs 
 
 ---
 
+## 📸 Results
+
+### 🔍 Prompt & Bad output
+![img](assets/screenshot.png)
+
+### 🛠 Failure Analysis & Improved Prompt
+![img](assets/screenshot.png)
+
+### 📊 Scores & 📈 Improvement Trend
+![img](assets/screenshot.png)
+
 ## 🚀 Features
 
 - 🔍 Detects LLM failure types:
