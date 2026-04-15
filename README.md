@@ -13,7 +13,7 @@ A FAANG-level AI system that detects, analyzes, and improves failed LLM outputs 
 ![img](https://github.com/Saishekar17/prompt-failure-analyzer/blob/a532ebc73b720e6c0744ba8d2c5aa831fe4525d7/my1.png)
 
 ### 📊 Scores & 📈 Improvement Trend
-![img](assets/screenshot.png)
+![img](https://github.com/Saishekar17/prompt-failure-analyzer/blob/d59dbfd8e635d8a1c20a78822d850ef59941c7b2/myaa.png)
 
 ## 🚀 Features
 
